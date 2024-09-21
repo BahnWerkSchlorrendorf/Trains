@@ -1,0 +1,28 @@
+Für Steuerwagen
+
+1x Steuerwagen.stl
+1x FuehrestandLinkeTuer.stl
+1x FuehrestandRechteTuer.stl
+1x FuehrerstandInnereTuer.stl
+4x LinkeTuer.stl
+4x RechteTuer.stl
+1x Kupplung.stl
+1x ZugfuehrerSitz.stl
+
+33x 1x1x1 Magnete für die Türe
+11x Federstahldraht 0.3mm 21.8mm
+
+Etwas Acrylglas 0.3mm für die Fenster
+
+Für Personenwagen
+
+1x Personenwagen.stl
+4x LinkeTuer.stl
+4x RechteTuer.stl
+
+24x 1x1x1 Magnete für die Türe
+8x Federstahldraht 0.3mm 21.8mm
+
+Etwas Acrylglas 0.3mm für die Fenster
+
+1x Wagenverbinder je 2 Wagen
